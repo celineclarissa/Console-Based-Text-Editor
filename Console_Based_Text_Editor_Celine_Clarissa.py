@@ -5,8 +5,8 @@ Name: Celine Clarissa Chandra
 
 Background
 
-I am a data science student building foundational programming skills
-through hands-on projects. This editor was developed as part of a course
+I am a freshman data science student building foundational programming skills
+through hands-on projects. This editor was developed as an assignment of a course
 in university to reinforce key concepts in string handling, user input
 parsing, and command execution flow—all within a non-object-oriented,
 procedural programming approach.

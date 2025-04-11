@@ -2,7 +2,7 @@
 This repository presents a console-based text editor implemented in Python. It is designed to work on a single line of text, supporting various cursor manipulations, text insertions, deletions, and history tracking features such as undo and repeat. 
 
 ## Background ❓
-I am a data science student building foundational programming skills through hands-on projects. This editor was developed as part of a course to reinforce key concepts in string handling, user input parsing, and command execution flow—all within a non-object-oriented, procedural programming approach.
+I am a freshman data science student building foundational programming skills through hands-on projects. This editor was developed as an assignment of a course to reinforce key concepts in string handling, user input parsing, and command execution flow—all within a non-object-oriented, procedural programming approach.
 
 ## Problem Statement 🔍
 Build and design a simple but powerful single-line editor requires handling many aspects of user interaction, including cursor movement, character-wise editing, command parsing, and maintaining edit history. The goal of this assignment is to simulate a real text editing environment in the command line, complete with helpful features like undo and command repetition, using only fundamental Python programming techniques.
@@ -20,12 +20,12 @@ Build and design a simple but powerful single-line editor requires handling many
 * Quit program (q)
 
 ## Skills 💻
-* Refactoring - logic reuse or simplification based on the existing logic.
+* Refactoring: logic reuse or simplification based on the existing logic.
 * Variable scope: global, local and function parameters.
-* Coding styles (naming convention, meaningful names, comments, doc_string).
+* Coding styles: naming convention, meaningful names, comments, doc_string, etc.
 * Problem decomposition, clean dode, top-down design.
 * Functions (with parameters and return) for program structure and logic decomposition.
-* Standard objects (strings, numbers & lists).
+* Standard objects: strings, numbers & lists.
 
 ## Technologies 👩🏻‍💻
 * Python
