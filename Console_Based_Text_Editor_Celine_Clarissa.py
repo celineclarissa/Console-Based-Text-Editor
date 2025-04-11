@@ -1,5 +1,5 @@
 '''
-Console-Based Editor
+Console-Based Text Editor
 
 Name: Celine Clarissa Chandra
 
