@@ -21,11 +21,11 @@ Build and design a simple but powerful single-line editor requires handling many
 
 ## Skills 💻
 * Refactoring - logic reuse or simplification based on the existing logic.
-• Variable scope: global, local and function parameters.
-• Coding styles (naming convention, meaningful names, comments, doc_string).
-• Problem decomposition, clean dode, top-down design.
-• Functions (with parameters and return) for program structure and logic decomposition.
-• Standard objects (strings, numbers & lists).
+* Variable scope: global, local and function parameters.
+* Coding styles (naming convention, meaningful names, comments, doc_string).
+* Problem decomposition, clean dode, top-down design.
+* Functions (with parameters and return) for program structure and logic decomposition.
+* Standard objects (strings, numbers & lists).
 
 ## Technologies 👩🏻‍💻
 * Python
